@@ -1,5 +1,23 @@
 # Shadow Digger
 
+ #####                                     
+#     # #    #   ##   #####   ####  #    # 
+#       #    #  #  #  #    # #    # #    # 
+ #####  ###### #    # #    # #    # #    # 
+      # #    # ###### #    # #    # # ## # 
+#     # #    # #    # #    # #    # ##  ## 
+ #####  #    # #    # #####   ####  #    # 
+                                           
+######                                
+#     # #  ####   ####  ###### #####  
+#     # # #    # #    # #      #    # 
+#     # # #      #      #####  #    # 
+#     # # #  ### #  ### #      #####  
+#     # # #    # #    # #      #   #  
+######  #  ####   ####  ###### #    # 
+                                      
+Created by S3THR0
+
 Shadow Digger is a Python-based doxing/people database tool that uses SQLite3 for storing and retrieving personal data. The application presents a CLI (Command Line Interface) to interact with the user, allowing the addition, editing, deletion, and display of entries.
 
 **Disclaimer: This tool is intended for legal and ethical use only, such as data management for investigative journalism, security research, or any other lawful purpose. Misuse of this tool for illegal activities is strictly prohibited. The creator assumes no liability and is not responsible for any misuse or damage caused by this program.**
